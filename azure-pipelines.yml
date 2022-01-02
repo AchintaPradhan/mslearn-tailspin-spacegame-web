@@ -1,7 +1,7 @@
 trigger:
 - '*'
 
-pool:local
+pool: Local
 
 variables:
   buildConfiguration: 'Release'
